@@ -25,3 +25,8 @@
 
 
 ### Session flow
+1. Talk about if-else statements and how and why they are the core to any programming language 
+2. Spend time talking about loops and their importance in problem solving
+3. Talk about cleaning up code by packaging up code inside functions for repeatability and usability
+4. Talk about the importance of libraries and how without them we would get nothing done.
+5. If time permits, talk about file handling in python.
