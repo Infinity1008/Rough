@@ -7,10 +7,10 @@
 
 
 ### Session Flow
-1. Spend time talking about python, it's history and where we are today.
-2. Talk about the uses and importance of python in the data science world
-3. Cover the basics of python data structures. 
-4. Give minute 5 min after every data structure covered. 
+1. Spend time talking about python, it's history and where we are today. (10 mins) 
+2. Talk about the uses and importance of python in the data science world (10 mins)
+3. Cover the basics of python data structures. (2 hours)
+4. Give minute 5 min after every data structure covered. (30 mins)
 5. If time permits, cover loops in the context of comprehensions.
 
 ## Session 2
@@ -25,8 +25,8 @@
 
 
 ### Session flow
-1. Talk about if-else statements and how and why they are the core to any programming language 
-2. Spend time talking about loops and their importance in problem solving
-3. Talk about cleaning up code by packaging up code inside functions for repeatability and usability
-4. Talk about the importance of libraries and how without them we would get nothing done.
+1. Talk about if-else statements and how and why they are the core to any programming language (45 mins)
+2. Spend time talking about loops and their importance in problem solving (45 mins)
+3. Talk about cleaning up code by packaging up code inside functions for repeatability and usability (45 mins)
+4. Talk about the importance of libraries and how without them we would get nothing done. (30mins)
 5. If time permits, talk about file handling in python.
