@@ -248,3 +248,12 @@
 [NotebookApp | INFO] Starting buffering for f52b4e62-2cb0-4f0a-b4d1-daa1c85d311e:7026493f001a4758aee7cbf98a0377c1
 [NotebookApp | INFO] 302 GET /?token=97b6a7d3bbe0f08fd3919a161ad77506d40896bed4f183b6 (::1) 0.590000ms
 [NotebookApp | INFO] Saving file at /rough_content/README.md
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Shutting down 4 kernels
+[NotebookApp | INFO] Kernel shutdown: ed6b2964-800f-41c8-b7b2-e782d26e8451
+[NotebookApp | INFO] Kernel shutdown: bef1a411-0e0e-4b38-9c4f-3e69250eec4c
+[NotebookApp | INFO] Kernel shutdown: f52b4e62-2cb0-4f0a-b4d1-daa1c85d311e
+[NotebookApp | INFO] Kernel shutdown: f23ef24f-8ec7-4e6c-b6dc-6f831d03f17c
+[NotebookApp | CRITICAL] received signal 2, stopping
+[NotebookApp | INFO] Shutting down 0 terminals
