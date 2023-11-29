@@ -1,0 +1,6 @@
+ 27-10-2023 02:49:00:390 [pid=13800 tid=13800] WARN   0:172 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 27-10-2023 02:49:00:391 [pid=13800 tid=13800] NOTICE  cufio-drv:705 running in compatible mode
+ 27-10-2023 02:49:00:392 [pid=13800 tid=13800] ERROR  cufio-plat:101 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 27-10-2023 02:49:00:392 [pid=13800 tid=13800] WARN   cufio-plat:429 GPU index 0 NVIDIA GeForce RTX 3060 Ti: Model Not Supported
+ 27-10-2023 02:49:00:392 [pid=13800 tid=13800] WARN   cufio-udev:165 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 27-10-2023 02:49:00:541 [pid=13800 tid=13800] ERROR  cufio-topo-udev:431 no device entries present in platform topology
